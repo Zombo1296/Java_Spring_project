@@ -4,6 +4,6 @@ Practice-A more efficient way to build an e-commerce website
 test
 
 
-| tHeader | tHeader | tHeader |
-| --- | :---: | ---: |
-| content1 | content 2 | content 3|
+tHeader | tHeader | tHeader 
+ --- | --- | ---
+ content1 | content 2 | content 3
